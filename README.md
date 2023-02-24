@@ -1,5 +1,6 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <developers/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 <!-- ![Profile_views](https://gpvc.arturio.dev/sete20) -->
+![Profile views](https://gpvc.arturio.dev/[sete20])
 <div align="center" width="50">
 
  <p> Hi I'm Abdelrhman Nice To Mate You </p>
