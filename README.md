@@ -1,5 +1,5 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <developers/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+https://komarev.com/ghpvc/?username=sete20&style=flat-square
 <div align="center" width="50">
 
  <p> Hi I'm Abdelrhman Nice To Mate You </p>
