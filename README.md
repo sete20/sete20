@@ -2,7 +2,7 @@
 
 <div align="center" width="50">
 
- <p> Hi I'm Abdelrhman Nice To Mate You </p>
+ <p> Hi I'm Abdelrhman Nice To Meet You </p>
 
 </div>
 
